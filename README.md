@@ -13,7 +13,6 @@ Soy un desarrollador autodidacta enfocado en crear experiencias interactivas y v
 Me motiva el reto de aprender tecnologías nuevas y aplicarlas en proyectos reales que mezclen lógica, diseño y creatividad.
 
 ---
-<br>
 
 ## 🛠️ Stack Tecnológico
 
