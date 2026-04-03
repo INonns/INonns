@@ -35,8 +35,8 @@ Me motiva el reto de aprender tecnologías nuevas y aplicarlas en proyectos real
 ---
 
 ## 👨‍💻 Actividad Reciente
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:last_update-->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ## 📂 Proyectos Destacados
 
