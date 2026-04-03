@@ -36,11 +36,11 @@ Me motiva el reto de aprender tecnologías nuevas y aplicarlas en proyectos real
 
 ## 👨‍💻 Actividad Reciente
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#4](https://github.com/INonns/miPrimerRepoPlatzi/issues/4) in [INonns/miPrimerRepoPlatzi](https://github.com/INonns/miPrimerRepoPlatzi)
-2. 🎉 Merged PR [#5](https://github.com/INonns/miPrimerRepoPlatzi/pull/5) in [INonns/miPrimerRepoPlatzi](https://github.com/INonns/miPrimerRepoPlatzi)
-3. 💪 Opened PR [#5](https://github.com/INonns/miPrimerRepoPlatzi/pull/5) in [INonns/miPrimerRepoPlatzi](https://github.com/INonns/miPrimerRepoPlatzi)
-4. ❗ Opened issue [#4](https://github.com/INonns/miPrimerRepoPlatzi/issues/4) in [INonns/miPrimerRepoPlatzi](https://github.com/INonns/miPrimerRepoPlatzi)
-5. 🔒 Closed issue [#3](https://github.com/INonns/miPrimerRepoPlatzi/issues/3) in [INonns/miPrimerRepoPlatzi](https://github.com/INonns/miPrimerRepoPlatzi)
+1. 🔒 Closed issue [#1](https://github.com/INonns/miPrimerRepoPlatzi/issues/1) in [INonns/miPrimerRepoPlatzi](https://github.com/INonns/miPrimerRepoPlatzi)
+2. 🚀 Published release [v0.1.0](https://github.com/INonns/tercerRepoPlatzi/releases/tag/v0.1.0) in [INonns/tercerRepoPlatzi](https://github.com/INonns/tercerRepoPlatzi)
+3. 🎉 Merged PR [#2](https://github.com/INonns/miTercerRepoPlatzi/pull/2) in [INonns/miTercerRepoPlatzi](https://github.com/INonns/miTercerRepoPlatzi)
+4. 💪 Opened PR [#2](https://github.com/INonns/miTercerRepoPlatzi/pull/2) in [INonns/miTercerRepoPlatzi](https://github.com/INonns/miTercerRepoPlatzi)
+5. 🔒 Closed issue [#1](https://github.com/INonns/miTercerRepoPlatzi/issues/1) in [INonns/miTercerRepoPlatzi](https://github.com/INonns/miTercerRepoPlatzi)
 <!--END_SECTION:activity-->
 
 ## 📂 Proyectos Destacados
