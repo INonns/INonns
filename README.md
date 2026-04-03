@@ -36,6 +36,11 @@ Me motiva el reto de aprender tecnologías nuevas y aplicarlas en proyectos real
 
 ## 👨‍💻 Actividad Reciente
 <!--START_SECTION:activity-->
+1. 🔒 Closed issue [#4](https://github.com/INonns/miPrimerRepoPlatzi/issues/4) in [INonns/miPrimerRepoPlatzi](https://github.com/INonns/miPrimerRepoPlatzi)
+2. 🎉 Merged PR [#5](https://github.com/INonns/miPrimerRepoPlatzi/pull/5) in [INonns/miPrimerRepoPlatzi](https://github.com/INonns/miPrimerRepoPlatzi)
+3. 💪 Opened PR [#5](https://github.com/INonns/miPrimerRepoPlatzi/pull/5) in [INonns/miPrimerRepoPlatzi](https://github.com/INonns/miPrimerRepoPlatzi)
+4. ❗ Opened issue [#4](https://github.com/INonns/miPrimerRepoPlatzi/issues/4) in [INonns/miPrimerRepoPlatzi](https://github.com/INonns/miPrimerRepoPlatzi)
+5. 🔒 Closed issue [#3](https://github.com/INonns/miPrimerRepoPlatzi/issues/3) in [INonns/miPrimerRepoPlatzi](https://github.com/INonns/miPrimerRepoPlatzi)
 <!--END_SECTION:activity-->
 
 ## 📂 Proyectos Destacados
